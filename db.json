@@ -31,28 +31,10 @@
       "email": "Active"
     },
     {
-      "id": "382b",
-      "name": "aaa",
-      "username": "bbb",
-      "email": ""
-    },
-    {
-      "id": "a70f",
-      "name": "abhi",
-      "username": "sabane",
-      "email": ""
-    },
-    {
       "id": "e63b",
       "name": "abhi",
       "username": "sabane",
       "email": "InActive"
-    },
-    {
-      "id": "e275",
-      "name": "pamya",
-      "username": "mane",
-      "email": ""
     },
     {
       "id": "c5b2",
@@ -65,6 +47,12 @@
       "name": "cc",
       "username": "vvv",
       "email": "active"
+    },
+    {
+      "id": "6389",
+      "name": "ss",
+      "username": "fff",
+      "email": "aaa"
     }
   ],
   "users1": [
