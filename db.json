@@ -29,30 +29,6 @@
       "name": "Fruits",
       "username": "Lorem Ipsum is simply dummy text",
       "email": "Active"
-    },
-    {
-      "id": "e63b",
-      "name": "abhi",
-      "username": "sabane",
-      "email": "InActive"
-    },
-    {
-      "id": "c5b2",
-      "name": "aaa",
-      "username": "ddd",
-      "email": "Active"
-    },
-    {
-      "id": "58ca",
-      "name": "cc",
-      "username": "vvv",
-      "email": "active"
-    },
-    {
-      "id": "6389",
-      "name": "ss",
-      "username": "fff",
-      "email": "aaa"
     }
   ],
   "users1": [
@@ -84,22 +60,13 @@
       "status": "InActive"
     },
     {
-      "id": "40b9",
-      "name": "mmmm",
-      "username": "nnnnnnn",
-      "email": ""
-    },
-    {
       "id": "0e1a",
-      "name": "abhi",
-      "username": "sabane",
-      "email": ""
-    },
-    {
-      "id": "bc22",
-      "name": "aaa",
-      "username": "bbb",
-      "email": ""
+      "name": "Amul Taaza",
+      "username": "500 ml",
+      "email": "Milk",
+      "phone": "Rs 30",
+      "date": "dfg",
+      "status": "Active"
     }
   ]
 }

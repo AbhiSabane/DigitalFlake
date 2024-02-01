@@ -78,7 +78,7 @@ const EditProduct = () => {
         navigate('/Catageory');
     }
     const onClickCancel = () => {
-        navigate('/Catageory');
+        navigate('/Product');
     }
 
     return (
@@ -110,7 +110,7 @@ const EditProduct = () => {
                                             borderRadius: "30px",
                                             width: "200px",
                                         }}
-                                        label="CategoryName"
+                                        label="Name"
                                         value={name}
                                         name='name'
                                         onChange={(e) => onInputChange(e)}
@@ -124,7 +124,7 @@ const EditProduct = () => {
                                             borderRadius: "30px",
                                             width: "200px",
                                         }}
-                                        label="Description"
+                                        label="Pack Size"
                                         value={username}
                                         name='username'
                                         onChange={(e) => onInputChange(e)}
@@ -138,7 +138,7 @@ const EditProduct = () => {
                                             borderRadius: "30px",
                                             width: "200px",
                                         }}
-                                        label="Status"
+                                        label="Category"
                                         value={email}
                                         name='email'
                                         onChange={(e) => onInputChange(e)}
